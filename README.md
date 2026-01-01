@@ -1,4 +1,4 @@
-# ATIKUR-RAHMAN
+# MY PORTFOLIO 
 # 👋 Hi, I'm Md Atikur Rahman
 
 🎓 **BSc in Software Engineering Student**  
