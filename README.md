@@ -66,7 +66,7 @@ Daffodil International University
 
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atikur-rahman248_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/atikur-rahman248_icons=true&theme=default)
 
 ---
 
