@@ -21,7 +21,7 @@ I am a passionate software engineering student interested in programming, data s
 
 ### Programming Languages
 - C  
-- Python (NumPy, Pandas – basic)
+- Python_basic (NumPy, Pandas, Matplotlib, seaborne)
 
 ### Database
 - SQL  
@@ -29,7 +29,7 @@ I am a passionate software engineering student interested in programming, data s
 ### Tools
 - MS Word  
 - MS PowerPoint  
-
+- Power Bi
 ### Soft Skills
 - Communication  
 - Teamwork  
