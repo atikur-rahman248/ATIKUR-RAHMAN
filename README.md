@@ -12,7 +12,7 @@ I am a passionate software engineering student interested in programming, data s
 ## 🧑‍💻 About Me
 - 🌱 Currently learning **Software Engineering concepts**
 - 💻 Interested in **Programming & Database Management**
-- 🎯 Career Goal: Become a **skilled software developer**
+- 🎯 Career Goal: Become a **skilled data scientist**
 - 🤝 Open to learning, teamwork, and new challenges
 
 ---
@@ -29,7 +29,7 @@ I am a passionate software engineering student interested in programming, data s
 ### Tools
 - MS Word  
 - MS PowerPoint  
-- Power Bi
+- MS Power Bi
 ### Soft Skills
 - Communication  
 - Teamwork  
@@ -44,7 +44,7 @@ I am a passionate software engineering student interested in programming, data s
 - 🔗 Link: *Coming soon*
 
 ### 🔹 Python Mini Projects
-- Description: Basic Python programs using NumPy & Pandas  
+- Description: Basic Python programs using NumPy, Pandas, matplotlib & seaborn. Also statically analysis. 
 - Tools: Python  
 - 🔗 Link: *Coming soon*
 
