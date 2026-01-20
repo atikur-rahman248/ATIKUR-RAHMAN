@@ -46,7 +46,7 @@ I am a passionate software engineering student interested in programming, data s
 ### 🔹 Python Mini Projects
 - Description: Basic Python programs using NumPy, Pandas, matplotlib & seaborn. Also statically analysis. 
 - Tools: Python  
-- 🔗 Link: *Coming soon*
+- 🔗 Link: https://github.com/atikur-rahman248/Data-visualization-with-pandas
 
 ---
 
