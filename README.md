@@ -47,7 +47,7 @@ I am a passionate software engineering student interested in programming, data s
 - Description: Basic Python programs using NumPy, Pandas, matplotlib & seaborn. Also statically analysis. 
 - Tools: Python  
 - 🔗 Link: https://github.com/atikur-rahman248/Data-visualization-with-pandas
-- 🔗 Link: 
+- 🔗 Link: https://github.com/atikur-rahman248/Statically-Data-Analysis-
 
 ---
 
